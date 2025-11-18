@@ -3,9 +3,9 @@
    id="Layer_1"
    version="1.1"
    viewBox="0 0 612 792"
-   sodipodi:docname="houser-chips.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   inkscape:export-filename="houser-chips.pdf"
+   sodipodi:docname="houser-chips-working.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:export-filename="houser-chips-v2.pdf"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -22,38 +22,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="3.13"
-     inkscape:cx="306.07029"
-     inkscape:cy="204.15335"
-     inkscape:window-width="2624"
+     inkscape:zoom="3.77"
+     inkscape:cx="242.70557"
+     inkscape:cy="81.432361"
+     inkscape:window-width="2192"
      inkscape:window-height="1225"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1517"
+     inkscape:window-y="31"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g867" />
+     inkscape:current-layer="g1219" />
   <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
   <defs
      id="defs264">
-    <linearGradient
-       id="linearGradient9"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop9" />
-      <stop
-         style="stop-color:#535353;stop-opacity:0;"
-         offset="1"
-         id="stop10" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath52">
-      <path
-         id="path52"
-         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
-         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" />
-    </clipPath>
     <pattern
        inkscape:collect="always"
        xlink:href="#FloorTiles"
@@ -4309,17 +4289,6 @@
          height="792"
          id="rect264" />
     </clipPath>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9"
-       id="radialGradient10"
-       cx="212.595"
-       cy="283.46"
-       fx="212.595"
-       fy="283.46"
-       r="42.515"
-       gradientTransform="matrix(1,0,0,0.99988239,0,0.03333647)"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g455">
@@ -8696,10 +8665,6 @@
          x="0"
          y="0"
          id="tspan841" /></text>
-    <path
-       d="M254.58,283.46c0,23.19-18.8,41.98-41.98,41.98s-41.99-18.8-41.99-41.98,18.8-41.98,41.99-41.98,41.98,18.8,41.98,41.98Z"
-       id="path5"
-       style="fill:#000000;fill-opacity:1" />
     <text
        class="st32"
        transform="translate(255.17 280.35) rotate(89.2)"
@@ -8707,6 +8672,9 @@
          x="0"
          y="0"
          id="tspan842">$</tspan></text>
+    <path
+       d="M254.58,283.46c0,23.19-18.8,41.98-41.98,41.98s-41.99-18.8-41.99-41.98,18.8-41.98,41.99-41.98,41.98,18.8,41.98,41.98Z"
+       id="path842" />
     <path
        class="st18"
        d="M254.58,283.46c0,23.19-18.8,41.98-41.98,41.98s-41.99-18.8-41.99-41.98,18.8-41.98,41.99-41.98,41.98,18.8,41.98,41.98Z"
@@ -8719,11 +8687,6 @@
          class="st313"
          clip-path="url(#clippath-86)"
          id="g860">
-        <path
-           class="st18"
-           d="m 254.58,283.46 c 0,23.19 -18.8,41.98 -41.98,41.98 -23.18,0 -41.99,-18.8 -41.99,-41.98 0,-23.18 18.8,-41.98 41.99,-41.98 23.19,0 41.98,18.8 41.98,41.98 z"
-           id="path3"
-           style="display:inline;fill:url(#radialGradient10);fill-opacity:1" />
         <g
            class="st198"
            id="g855">
@@ -13695,8 +13658,7 @@
         <polygon
            class="st144"
            points="38.23,149.79 32.21,154.31 14.17,140.75 20.19,136.23 "
-           id="polygon1489"
-           style="fill:#ee3c39;fill-opacity:1" />
+           id="polygon1489" />
         <polygon
            class="st101"
            points="49.56,149.79 43.55,154.31 25.51,140.75 31.52,136.23 "
@@ -13704,8 +13666,7 @@
         <polygon
            class="st144"
            points="60.9,149.79 54.89,154.31 36.85,140.75 42.86,136.23 "
-           id="polygon1491"
-           style="fill:#ee3c39;fill-opacity:1" />
+           id="polygon1491" />
       </g>
     </g>
     <g
@@ -13721,8 +13682,7 @@
         <polygon
            class="st144"
            points="126.79,149.79 120.77,154.31 102.73,140.75 108.75,136.23 "
-           id="polygon1492"
-           style="fill:#ee3c39;fill-opacity:1" />
+           id="polygon1492" />
         <polygon
            class="st101"
            points="138.12,149.79 132.11,154.31 114.07,140.75 120.09,136.23 "
@@ -13730,8 +13690,7 @@
         <polygon
            class="st144"
            points="149.46,149.79 143.45,154.31 125.41,140.75 131.42,136.23 "
-           id="polygon1494"
-           style="fill:#ee3c39;fill-opacity:1" />
+           id="polygon1494" />
       </g>
     </g>
     <g
@@ -13747,8 +13706,7 @@
         <polygon
            class="st144"
            points="191.29,140.75 197.3,136.23 215.34,149.79 209.33,154.31 "
-           id="polygon1495"
-           style="fill:#ee3c39;fill-opacity:1" />
+           id="polygon1495" />
         <polygon
            class="st101"
            points="202.63,140.75 208.65,136.23 226.68,149.79 220.67,154.31 "
@@ -13756,8 +13714,7 @@
         <polygon
            class="st144"
            points="213.97,140.75 219.98,136.23 238.02,149.79 232.01,154.31 "
-           id="polygon1497"
-           style="fill:#ee3c39;fill-opacity:1" />
+           id="polygon1497" />
       </g>
     </g>
     <g
@@ -13773,8 +13730,7 @@
         <polygon
            class="st144"
            points="279.85,140.75 285.87,136.23 303.91,149.79 297.89,154.31 "
-           id="polygon1498"
-           style="fill:#ee3c39;fill-opacity:1" />
+           id="polygon1498" />
         <polygon
            class="st101"
            points="291.19,140.75 297.2,136.23 315.24,149.79 309.23,154.31 "
@@ -13782,8 +13738,7 @@
         <polygon
            class="st144"
            points="302.53,140.75 308.54,136.23 326.58,149.79 320.57,154.31 "
-           id="polygon1500"
-           style="fill:#ee3c39;fill-opacity:1" />
+           id="polygon1500" />
       </g>
     </g>
   </g>
@@ -13847,17 +13802,17 @@
            class="st101"
            points="38.23,192.31 32.21,196.84 14.17,183.27 20.19,178.75 "
            id="polygon1508"
-           style="fill:#ffffff;fill-opacity:1" />
+           style="fill:#913794;fill-opacity:1" />
         <polygon
            class="st220"
            points="49.56,192.31 43.55,196.84 25.51,183.27 31.52,178.75 "
            id="polygon1509"
-           style="fill:#007c43;fill-opacity:1" />
+           style="fill:#ffffff;fill-opacity:1" />
         <polygon
            class="st101"
            points="60.9,192.31 54.89,196.84 36.85,183.27 42.86,178.75 "
            id="polygon1510"
-           style="fill:#ffffff;fill-opacity:1" />
+           style="fill:#913794;fill-opacity:1" />
       </g>
     </g>
     <g
@@ -13908,17 +13863,17 @@
            class="st101"
            points="215.39,192.31 209.38,196.84 191.34,183.27 197.35,178.75 "
            id="polygon1514"
-           style="fill:#ffffff;fill-opacity:1" />
+           style="fill:#913794;fill-opacity:1" />
         <polygon
            class="st220"
            points="226.73,192.31 220.71,196.84 202.68,183.27 208.69,178.75 "
            id="polygon1515"
-           style="fill:#007c43;fill-opacity:1" />
+           style="fill:#ffffff;fill-opacity:1" />
         <polygon
            class="st101"
            points="238.07,192.31 232.05,196.84 214.02,183.27 220.03,178.75 "
            id="polygon1516"
-           style="fill:#ffffff;fill-opacity:1" />
+           style="fill:#913794;fill-opacity:1" />
       </g>
     </g>
     <g
@@ -13934,17 +13889,17 @@
            class="st101"
            points="303.97,192.31 297.96,196.84 279.92,183.27 285.93,178.75 "
            id="polygon1517"
-           style="fill:#ffffff;fill-opacity:1" />
+           style="fill:#913794;fill-opacity:1" />
         <polygon
            class="st220"
            points="315.31,192.31 309.3,196.84 291.26,183.27 297.27,178.75 "
            id="polygon1518"
-           style="fill:#007c43;fill-opacity:1" />
+           style="fill:#ffffff;fill-opacity:1" />
         <polygon
            class="st101"
            points="326.65,192.31 320.64,196.84 302.6,183.27 308.61,178.75 "
            id="polygon1519"
-           style="fill:#ffffff;fill-opacity:1" />
+           style="fill:#913794;fill-opacity:1" />
       </g>
     </g>
     <g
@@ -13961,17 +13916,17 @@
            class="st101"
            points="102.76,183.27 108.77,178.75 126.81,192.31 120.79,196.84 "
            id="polygon1520"
-           style="fill:#ffffff;fill-opacity:1" />
+           style="fill:#913794;fill-opacity:1" />
         <polygon
            class="st220"
            points="114.09,183.27 120.11,178.75 138.15,192.31 132.13,196.84 "
            id="polygon1521"
-           style="fill:#007c43;fill-opacity:1" />
+           style="fill:#ffffff;fill-opacity:1" />
         <polygon
            class="st101"
            points="125.43,183.27 131.45,178.75 149.48,192.31 143.47,196.84 "
            id="polygon1522"
-           style="fill:#ffffff;fill-opacity:1" />
+           style="fill:#913794;fill-opacity:1" />
       </g>
     </g>
   </g>
