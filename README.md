@@ -5,25 +5,24 @@ Design for custom poker chips. To be ordered from [BR Pro Poker](https://brpropo
 Current Design (as of 2025/11/17):
 ![Poker Chips](houser-chips.png)
 
+## Custom Poker Chips
 
-# Custom Poker Chips
+2025-12-02 Revised Design colors and counts for final order.
 
-2025-07-17 Revised Design colors and counts
-
-| **label** | **color**  | **icon** |     |  CASH | **stack** | **# chips** |     |        T25 |  stack   | # chips | **order** | traditional color |
-| --------: | ---------- | -------- | --- | ----: | :-------: | ----------: | --- | ---------: | :------: | ------: | --------: | ----------------- |
-|      25 ¢ | blue (25¢) | cheese   |     | $   1 |   4x20    |          80 |     |            |          |         |       100 |                   |
-|       $ 1 | purple     | tabby    |     |  $ 14 |   14x20   |         280 |     |            |          |         |       300 | white             |
-|       $ 5 | red        | maxine   |     | $   5 |   1x20    |          20 |     |            |          |         |       150 |                   |
-|      $ 20 | green      | roadster |     |       |           |             |     |            |          |         |       100 |                   |
-|        25 | pink       |          |     |       |           |             |     | $      200 |   8x20   |     160 |       200 |                   |
-|       100 | black      | heather  |     |       |           |             |     | $      800 |   8x20   |     160 |       200 |                   |
-|       500 | aqua/cyan  |          |     |       |           |             |     |  $   3,000 |   6x20   |     120 |       150 | purple            |
-|     2,000 | yellow     |          |     |       |           |             |     |  $   6,000 |   3x20   |      60 |       100 |                   |
-|    10,000 | orange     | abacus   |     |       |           |             |     |   $ 10,000 |   1x20   |      20 |        50 |                   |
-|       $ 0 | white      | house    |     |       |           |             |     |            |          |         |        50 |                   |
-|    bounty | brown      |          |     |       |           |             |     |            |          |         |        25 |                   |
-|           |            |          |     |  $ 20 | 19 chips  |         380 |     |   $ 20,000 | 26 chips |     520 |      1425 |                   |
+| **label** | **color**   | **icon** |     |  CASH | **stack** | **# chips** |     |      T25 |  stack   | # chips | **order** | traditional color |
+| --------: | ----------- | -------- | --- | ----: | :-------: | ----------: | --- | -------: | :------: | ------: | --------: | ----------------- |
+|      25 ¢ | purple      | cat      |     | $   1 |   4x20    |          80 |     |          |          |         |       100 |                   |
+|       $ 1 | blue        | ducks    |     | $  14 |  14x20    |         280 |     |          |          |         |       300 | white             |
+|       $ 5 | red         | dog      |     | $   5 |   1x20    |          20 |     |          |          |         |       150 |                   |
+|      $ 20 | green       | house    |     |       |           |             |     |          |          |         |       100 |                   |
+|        25 | light blue  | cheese   |     |       |           |             |     | $    200 |   8x20   |     160 |       200 |                   |
+|       100 | black       | heather  |     |       |           |             |     | $    800 |   8x20   |     160 |       200 |                   |
+|       500 | orange      | abacus   |     |       |           |             |     | $  3,000 |   6x20   |     120 |       150 | purple            |
+|     2,000 | light green | maple    |     |       |           |             |     | $  6,000 |   3x20   |      60 |       100 |                   |
+|    10,000 | yellow      | roadster |     |       |           |             |     | $ 10,000 |   1x20   |      20 |       100 |                   |
+|       $ 0 | white       | house    |     |       |           |             |     |          |          |         |       100 |                   |
+|    bounty | brown       |          |     |       |           |             |     |          |          |         |        50 |                   |
+|           |             |          |     |  $ 20 | 19 chips  |         380 |     | $ 20,000 | 26 chips |     520 |      1600 |                   |
 
 Cash Game: $0.25/$0.25 blinds, $20 buy-in: 4x$0.25, 14x$1, 1x5 (19 chips each buy-in)
 Tournament: $0.25/$0.25 blinds, $20 buy-in: $0.25x8, $1x8, $5x6, $20x3, $100x1 (26 chips each buy-in)
