@@ -2,7 +2,7 @@
 
 Design for custom poker chips. To be ordered from [BR Pro Poker](https://brpropoker.com/collections/custom-chips/products/copy-of-custom-39mm-1-5-inch-chips-standard-casino-chip-size).
 
-Current Design (as of 2025/11/17):
+Final Design (as of 2025/12/01):
 ![Poker Chips](houser-chips.png)
 
 ## Custom Poker Chips
